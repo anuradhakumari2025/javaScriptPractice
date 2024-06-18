@@ -31,6 +31,7 @@ function displayItemOnHomePage() {
   });
 
   let item = {
+    id: "001",
     image: "images/1.jpg",
     rating: {
       stars: 4.5,
