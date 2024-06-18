@@ -1,0 +1,58 @@
+/* .btn{
+    padding: 5px 15px ;
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(80, 245, 94);
+}
+#btn2{
+    padding: 5px 35px;
+    border-radius: 8px;
+    border: black solid 2px;
+    text-transform: uppercase;
+} */
+
+/* .choiceBtn{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    border: none;
+    border-radius: 50px;
+    background-color: rgb(88, 235, 74);
+}
+.choiceImg{
+    height: 75px;
+    width: 75px;
+}
+body{
+    text-align: center; }
+    */
+
+.js-odd {
+  background-color: green;
+}
+.js-even {
+  background-color: brown;
+}
+#btn {
+  border: none;
+  border-radius: 5px;
+  height: 100px;
+  width: 100px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.btn {
+  height: 100px;
+  width: 100px;
+  background-color: blueviolet;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.js-updateBtn {
+  height: 200px;
+  width: 200px;
+  border: none;
+  border-radius: 4px;
+}
